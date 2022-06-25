@@ -1,4 +1,7 @@
 # ProjetoFinal
+Dependências: [Dotnet Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
+
+
 Uma calculadora que é capaz de fazer 6 tipos de calculos, 
 são eles: Soma, subtração, multiplicação, divisão, exponenciação e radiciação
 
